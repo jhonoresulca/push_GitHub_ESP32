@@ -28,3 +28,7 @@ int myFunction2(int x, int y) {
 int myFunction3(int x, int y) {
   return x + y;
 }
+// put function definitions here:
+int myFunction4(int x, int y) {
+  return x + y;
+}
