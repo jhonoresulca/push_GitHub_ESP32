@@ -36,3 +36,7 @@ int myFunction4(int x, int y) {
 int myFunction5(int x, int y) {
   return x + y;
 }
+// put function definitions here:
+int myFunction6(int x, int y) {
+  return x + y;
+}
