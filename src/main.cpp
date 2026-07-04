@@ -32,3 +32,7 @@ int myFunction3(int x, int y) {
 int myFunction4(int x, int y) {
   return x + y;
 }
+// put function definitions here:
+int myFunction5(int x, int y) {
+  return x + y;
+}
